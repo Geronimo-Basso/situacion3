@@ -1,0 +1,3 @@
+/Users/GeronimoBasso/Desktop/Tercer_Semestre/PEL/semana-16/situacion3/cmake-build-debug/CMakeFiles/situacion3.dir
+/Users/GeronimoBasso/Desktop/Tercer_Semestre/PEL/semana-16/situacion3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/GeronimoBasso/Desktop/Tercer_Semestre/PEL/semana-16/situacion3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
